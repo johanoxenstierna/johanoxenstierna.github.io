@@ -1,13 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
   - johanoxenstierna
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
   - FortAwesome/Font-Awesome
   - johanoxenstierna/31_kanagw
   - johanoxenstierna/N6
+  - johanoxenstierna/moving_objects_matplotlib
+  - johanoxenstierna/PythonPyQtANN
+  - johanoxenstierna/24_heatmap
