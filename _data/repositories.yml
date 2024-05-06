@@ -1,6 +1,7 @@
 github_users:
   - torvalds
   - alshedivat
+  - johanoxenstierna
 
 github_repos:
   - alshedivat/al-folio
@@ -8,5 +9,5 @@ github_repos:
   - jekyll/jekyll
   - jquery/jquery
   - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - johanoxenstierna/31_kanagw
+  - johanoxenstierna/N6
